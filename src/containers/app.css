@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'COMPUTER-Robot';
+    src:url('COMPUTER-Robot.ttf.woff') format('woff'),
+        url('COMPUTER-Robot.ttf.svg#COMPUTER-Robot') format('svg'),
+        url('COMPUTER-Robot.ttf.eot'),
+        url('COMPUTER-Robot.ttf.eot?#iefix') format('embedded-opentype'); 
+    font-weight: normal;
+    font-style: normal;
+}
+h1 { 
+    margin-top: .8rem;
+    font-family: 'COMPUTER-Robot';
+    font-size: 5rem;
+    color:#6D5ACF;
+ }  

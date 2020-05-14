@@ -1,0 +1,11 @@
+.card{
+    background: #6D5ACF;
+    text-align: center;
+    border-radius: 2px;
+    box-shadow:4px 4px 15px -8px rgba(0,0,0,0.8);
+    margin: 1rem;
+}
+.card:hover{
+    transform: scale(1.01);
+    cursor: pointer;
+}

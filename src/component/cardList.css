@@ -1,0 +1,6 @@
+.allcards{
+    display:grid;
+    grid-template-columns: repeat(auto-fill,minmax(15rem,1fr));
+    align-self: flex-end;
+    gap: 0.8rem;
+}

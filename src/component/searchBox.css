@@ -1,0 +1,18 @@
+input[type=search]{
+    padding: 1.8rem;
+    margin: 0rem;
+    background: #6D5ACF;
+    border: none;
+    border-radius: 50px;
+    font-size: 1.2rem;
+    transition:width 4s ease;
+    width: 75px;
+    color: #1d1f1e;
+    font-weight: bold;
+}
+input[type=search]:hover{
+    width:auto;
+}
+input[type=search]::placeholder {
+    color: rgb(48, 47, 47);
+}
