@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/robomon/static/css/main.2e75fb2a.chunk.css",
+    "main.js": "/robomon/static/js/main.06bad0a9.chunk.js",
+    "main.js.map": "/robomon/static/js/main.06bad0a9.chunk.js.map",
+    "runtime-main.js": "/robomon/static/js/runtime-main.a4060f81.js",
+    "runtime-main.js.map": "/robomon/static/js/runtime-main.a4060f81.js.map",
+    "static/js/2.b76b8dff.chunk.js": "/robomon/static/js/2.b76b8dff.chunk.js",
+    "static/js/2.b76b8dff.chunk.js.map": "/robomon/static/js/2.b76b8dff.chunk.js.map",
+    "index.html": "/robomon/index.html",
+    "precache-manifest.a1d1d96fb5573f140cf6775ede9584f7.js": "/robomon/precache-manifest.a1d1d96fb5573f140cf6775ede9584f7.js",
+    "service-worker.js": "/robomon/service-worker.js",
+    "static/css/main.2e75fb2a.chunk.css.map": "/robomon/static/css/main.2e75fb2a.chunk.css.map",
+    "static/js/2.b76b8dff.chunk.js.LICENSE.txt": "/robomon/static/js/2.b76b8dff.chunk.js.LICENSE.txt",
+    "static/media/app.css": "/robomon/static/media/COMPUTER-Robot.ttf.ed1a0f7d.eot"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a4060f81.js",
+    "static/js/2.b76b8dff.chunk.js",
+    "static/css/main.2e75fb2a.chunk.css",
+    "static/js/main.06bad0a9.chunk.js"
+  ]
+}
