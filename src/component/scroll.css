@@ -1,4 +1,29 @@
 .scroll{
     height: 58vh;
+    width: 100%;
     overflow-y: scroll;
+    position: absolute;
+    bottom: 0;
+    left: 0;
 }
+/* width */
+::-webkit-scrollbar {
+    width: 15px;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 5px grey; 
+    border-radius: 10px;
+  }
+   
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: #6D5ACF; 
+    border-radius: 10px;
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: rgb(81, 65, 163); 
+  }
